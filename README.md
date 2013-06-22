@@ -32,8 +32,11 @@ testing is run by using python to run a webserver from the project base with [ja
 
 ```
 python -m SimpleHTTPServer
-
 ```
 
-http://localhost:8000/SpecRunner.html
+[http://localhost:8000/SpecRunner.html](http://localhost:8000/SpecRunner.html)
 
+
+### TODO
+
+Streams 
