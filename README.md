@@ -1,7 +1,7 @@
 S.js
 ====
 
-This library is a using a prototypal inheritance approach
+This library is using a prototypal inheritance approach
 to achieve some of the similar functional programming 
 styles similar to scala/functional java
 
