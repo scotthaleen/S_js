@@ -28,7 +28,7 @@ And the book [Functional Java](http://www.amazon.com/Functional-Programming-Java
 ## Testing
 
 
-testing is run by using python to run a webserver from the project base with [jasmine](http://pivotal.github.io/jasmine/)
+testing is run by using python to run a webserver from the project base with [jasmine](https://jasmine.github.io/)
 
 ```
 python -m SimpleHTTPServer
